@@ -1,0 +1,15 @@
+C:\Users\Particular\Documents\ProjectRPG\bin\Debug\net6.0\ProjectRPG.exe
+C:\Users\Particular\Documents\ProjectRPG\bin\Debug\net6.0\ProjectRPG.deps.json
+C:\Users\Particular\Documents\ProjectRPG\bin\Debug\net6.0\ProjectRPG.runtimeconfig.json
+C:\Users\Particular\Documents\ProjectRPG\bin\Debug\net6.0\ProjectRPG.dll
+C:\Users\Particular\Documents\ProjectRPG\bin\Debug\net6.0\ProjectRPG.pdb
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.csproj.AssemblyReference.cache
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.AssemblyInfoInputs.cache
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.AssemblyInfo.cs
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.csproj.CoreCompileInputs.cache
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.dll
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\refint\ProjectRPG.dll
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.pdb
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ProjectRPG.genruntimeconfig.cache
+C:\Users\Particular\Documents\ProjectRPG\obj\Debug\net6.0\ref\ProjectRPG.dll
